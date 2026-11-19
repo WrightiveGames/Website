@@ -1,1 +1,9 @@
-# Ad network lines are added here once LevelPlay/AdMob accounts are set up.
+# app-ads.txt for Wrightive Games (Llits, Rolling Chilled)
+# https://iabtechlab.com/ads-txt/
+OWNERDOMAIN=wrightivegames.com
+
+# Google AdMob (bidding through LevelPlay)
+google.com, pub-7943626877554655, DIRECT, f08c47fec0942fa0
+
+# ironSource Ads / Unity LevelPlay
+ironsrc.com, 702209, DIRECT
